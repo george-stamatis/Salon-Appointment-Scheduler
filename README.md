@@ -2,11 +2,11 @@
 
 This project is part of the freeCodeCamp curriculum for the "Relational Database" certification.The Salon Appointment Scheduler is a Bash script designed to facilitate booking appointments for various services offered by the salon. It interacts seamlessly with a PostgreSQL database named "salon" to manage customer details, service information, and appointments effectively.
 
-# Project Description:
+# Project Description
 
 The Salon Appointment Scheduler project aims to develop a Bash script for managing appointments at a salon. It allows customers to book appointments for various salon services and assists salon staff in organizing appointments efficiently. Inspired by the need for streamlined appointment booking processes, this project focuses on creating a user-friendly script that interacts with a PostgreSQL database to store and retrieve customer information, service details, and appointments.
 
-Key Aspects:
+# Key Aspects
 
 - Database Creation: Create a PostgreSQL database named "salon" to store information about customers, services, and appointments.
 
